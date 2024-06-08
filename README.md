@@ -1,2 +1,2 @@
-# telethon-userbot-template
-An example of a userbot and a telethon for managing Telegram accounts
+# aiogram-bot-template
+The Variogram bot template. A simple bot is used as a basis.
